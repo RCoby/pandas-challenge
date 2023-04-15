@@ -20,7 +20,6 @@ Using Pandas and Jupyter notebook this code is used to provide informative data 
 -----
 
 ### The analysis includes the following: 
-
 **Local Government Area (LGA) Summary** - high-level snapshot of local government area school's key metrics
 **School Summary** - key metrics about each school
 **Highest-Performing Schools** - by % Overall Passing
